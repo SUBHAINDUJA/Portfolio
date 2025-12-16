@@ -1,0 +1,56 @@
+/* Purple theme color */
+.purple {
+  color: #a020f0;
+  font-weight: 600;
+}
+
+/* Buttons purple style */
+.about-buttons button {
+  background-color: #a020f0;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.about-buttons button:hover {
+  background-color: #7d14c1;
+}
+
+/* Slide box purple gradient background */
+.slide-box {
+  max-height: 0;
+  overflow: hidden;
+  background: rgba(84, 23, 138, 0.35);
+  border: 1px solid rgba(160, 32, 240, 0.5);
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 0 20px;
+  transition: max-height 0.5s ease, padding 0.3s ease;
+}
+
+.slide-box.show {
+  max-height: 350px;
+  padding: 20px;
+}
+
+/* Headings inside sliding section */
+.content h3 {
+  color: #c87df7;
+  margin-bottom: 10px;
+}
+
+.content h4 {
+  color: #d8a2ff;
+  margin: 5px 0;
+}
+
+/* Paragraphs inside sliding content */
+.content p {
+  color: #e3c5ff;
+  font-size: 15px;
+  line-height: 1.6;
+}
