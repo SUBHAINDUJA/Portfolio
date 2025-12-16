@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React.js, showcasing projects,
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-deployed-url.com) 
+https://portfolio-indol-one-khauiy8qq1.vercel.app/ 
 
 ## 📋 Table of Contents
 
@@ -20,7 +20,7 @@ A modern, responsive portfolio website built with React.js, showcasing projects,
 
 ## 📖 About
 
-This is a personal portfolio website for **SUBHAINDUJA B**, a passionate developer. The website showcases my projects, technical skills, resume, and provides a way to connect with me.
+This is my personal portfolio website . The website showcases my projects, technical skills, resume, and provides a way to connect with me.
 
 ## ✨ Features
 
